@@ -1,0 +1,80 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Hola",
+        "Namaste",
+        "Good Morning",
+        "Good Evening",
+        "Good Afternoon",
+        "Good Night",
+        "Howdy",
+        "Hey There",
+        "Hi There",
+        "Hello There",
+        "Hey Buddy",
+        "Hi Buddy",
+        "Hello Buddy",
+        "Hey Dude",
+        "Hi Dude",
+        "Hello Dude"
+      ],
+      "responses": [
+        "Hello!",
+        "Hi!",
+        "Hey!",
+        "Hola!",
+        "Namaste!",
+        "Good Morning!",
+        "Good Evening!",
+        "Good Afternoon!",
+        "Good Night!",
+        "Howdy!",
+        "Hey There!",
+        "Hi There!",
+        "Hello There!",
+        "Hey Buddy!",
+        "Hi Buddy!",
+        "Hello Buddy!",
+        "Hey Dude!",
+        "Hi Dude!",
+        "Hello Dude!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "See you soon",
+        "Take care",
+        "Good Night",
+        "Good Morning",
+        "Good Evening",
+        "Good Afternoon",
+        "Catch you later",
+        "Catch you soon"
+        
+        
+      ],
+        "responses": [
+            "Goodbye!",
+            "Bye!",
+            "See you later!",
+            "See you soon!",
+            "Take care!",
+            "Good Night!",
+            "Good Morning!",
+            "Good Evening!",
+            "Good Afternoon!",
+            "Catch you later!",
+            "Catch you soon!"
+        ]
+    }
+  ]
+}
